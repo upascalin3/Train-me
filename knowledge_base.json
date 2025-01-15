@@ -1,0 +1,28 @@
+{
+  "questions": [
+    {
+      "question": "Hey",
+      "answer": "Hey there!"
+    },
+    {
+      "question": "How are you?",
+      "answer": "I am fine and you are you good!"
+    },
+    {
+      "question": "i am sad",
+      "answer": "There is no reason to be sad in such a beautiful day put on a smile the \ud83d\ude0a"
+    },
+    {
+      "question": "smile",
+      "answer": "I can't smile because I am a program"
+    },
+    {
+      "question": "nice",
+      "answer": "thank you"
+    },
+    {
+      "question": "hello",
+      "answer": "hi"
+    }
+  ]
+}
